@@ -1,0 +1,77 @@
+#EXTM3U
+
+# ================= USA | GENERAL =================
+#EXTINF:-1 group-title="USA | General",ABC HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/2203
+#EXTINF:-1 group-title="USA | General",Bravo East
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31938
+#EXTINF:-1 group-title="USA | General",AXS TV
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/2205
+#EXTINF:-1 group-title="USA | General",GSN HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/5286
+
+# ================= USA | SPORTS =================
+#EXTINF:-1 group-title="USA | Sports",NFL Network
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32110
+#EXTINF:-1 group-title="USA | Sports",NFL RedZone HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32121
+#EXTINF:-1 group-title="USA | Sports",NBA TV FHD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32106
+#EXTINF:-1 group-title="USA | Sports",MLB Network HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32105
+#EXTINF:-1 group-title="USA | Sports",NHL Network HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32165
+
+# ================= USA | NEWS =================
+#EXTINF:-1 group-title="USA | News",CNN FHD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/5891
+#EXTINF:-1 group-title="USA | News",Fox News HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32232
+#EXTINF:-1 group-title="USA | News",MSNBC HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32215
+#EXTINF:-1 group-title="USA | News",CNBC HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32218
+#EXTINF:-1 group-title="USA | News",BBC World News
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/50617
+
+# ================= USA | ENTERTAINMENT =================
+#EXTINF:-1 group-title="USA | Entertainment",Comedy Central HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31932
+#EXTINF:-1 group-title="USA | Entertainment",Food Network HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31901
+#EXTINF:-1 group-title="USA | Entertainment",HGTV HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31894
+#EXTINF:-1 group-title="USA | Entertainment",USA Network HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/2213
+
+# ================= USA | DOCUMENTARY =================
+#EXTINF:-1 group-title="USA | Documentary",Discovery Channel HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31879
+#EXTINF:-1 group-title="USA | Documentary",Nat Geo HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31890
+#EXTINF:-1 group-title="USA | Documentary",History Channel HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31865
+
+# ================= USA | MOVIES =================
+#EXTINF:-1 group-title="USA | Movies",Cinemax East FHD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/32198
+#EXTINF:-1 group-title="USA | Movies",Cinemax Action HD
+http://ygdfvdic.cheadns.com:80/NX6J4GM6/BG6DA95F/31176
+
+# ================= ITALY | GENERAL 🇮🇹 =================
+#EXTINF:-1 group-title="Italy | General",RAI 1
+https://iptv-org.github.io/iptv/streams/it/rai1.m3u8
+#EXTINF:-1 group-title="Italy | General",RAI 2
+https://iptv-org.github.io/iptv/streams/it/rai2.m3u8
+#EXTINF:-1 group-title="Italy | General",RAI 3
+https://iptv-org.github.io/iptv/streams/it/rai3.m3u8
+#EXTINF:-1 group-title="Italy | General",Canale 5
+https://iptv-org.github.io/iptv/streams/it/canale5.m3u8
+#EXTINF:-1 group-title="Italy | General",Italia 1
+https://iptv-org.github.io/iptv/streams/it/italia1.m3u8
+
+# ================= ITALY | NEWS 🇮🇹 =================
+#EXTINF:-1 group-title="Italy | News",TGCOM24
+https://iptv-org.github.io/iptv/streams/it/tgcom24.m3u8
+#EXTINF:-1 group-title="Italy | News",RAI News 24
+https://iptv-org.github.io/iptv/streams/it/rainews24.m3u8
